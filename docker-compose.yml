@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  db:
+    image: postgres:12
+    environment:
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: postgres
+    ports:
+      - "5432:5432"
