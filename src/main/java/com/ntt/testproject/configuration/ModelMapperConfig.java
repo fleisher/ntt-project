@@ -1,4 +1,4 @@
-package com.ntt.testproject.сonfiguration;
+package com.ntt.testproject.configuration;
 
 import org.modelmapper.ModelMapper;
 import org.modelmapper.convention.MatchingStrategies;
